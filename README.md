@@ -1,4 +1,4 @@
 # hello-world
 ...
-just say
+say
 hello world
